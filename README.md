@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kforkool11234
-- 👀 I’m interested in python language 
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @kforkool1123
+- 👀 I’m interested in python language and web development
+- 🌱 I’m currently learning git & backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kaushalsubho2005@gmail.com
 
