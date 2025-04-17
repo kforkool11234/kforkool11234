@@ -1,9 +1,19 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU4bGc3MDhjYWM4bmplYXJoM2NlNGFsMGRraGVpM29qYnBremJ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="coder cat" width="300"/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN6czV1M256NG02dHBsb2UxMG1tMG56azM1dGlmdGI5a2JqZzF6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" alt="coding ninja" width="300"/>
-</p>
+
+<table align="center" width="80%">
+  <tr>
+    <td align="left" width="40%">
+      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="300">
+    </td>
+    <td width="100px"></td> <!-- spacer column -->
+    <td align="right" width="40%">
+      <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="300" height="300">
+    </td>
+  </tr>
+</table>
+
+
 - 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Full Stack and Gen AI projects**
